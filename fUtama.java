@@ -1,7 +1,7 @@
 /*
- * Neng kene rusake. Ada 2 file untuk fUtama. Yaitu fUtama.frm dan fUtama.java
- * fUtama.frm berisi file semacam file xml untuk disain formnya, sedangkan fUtama.java adalah kode java aslinya.
- * fUtama.java berisi perintah-perintah yang harus dijalankan oleh fUtama.frm.
+ * Ada 2 file untuk fUtama. Yaitu fUtama.form dan fUtama.java
+ * fUtama.form berisi file semacam file xml untuk disain formnya, sedangkan fUtama.java adalah kode java aslinya.
+ * fUtama.java berisi perintah-perintah yang harus dijalankan oleh fUtama.form.
  */
 package borneomotor;
 
